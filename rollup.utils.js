@@ -287,6 +287,7 @@ function getMagicExports(packageName) {
         "createCookieSessionStorage",
         "createMemorySessionStorage",
         "createSessionStorage",
+        "createWorkersKVSessionStorage",
       ],
     },
     "@remix-run/node": {
